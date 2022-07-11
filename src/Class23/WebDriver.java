@@ -1,5 +1,5 @@
-
 package Class23;
+
 public class WebDriver {
     public  void startBrowser(){
         System.out.println("Starting the browser");

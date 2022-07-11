@@ -10,7 +10,7 @@ public class InstanceDemo {
         this.str = "Captain Marvel";
     }
 
-    void printIstanceValue() {
+ void printIstanceValue() {
         System.out.println(this.str);
     }
 
